@@ -8,13 +8,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ### The challenge
@@ -29,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AlexEG/product-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://alexeg.github.io/product-preview-card-component-main/)
 
 
 
@@ -42,14 +37,8 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-
-
-
-
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [alexeg.github.io](https://alexeg.github.io/)
+- Frontend Mentor - [@AlexEG](https://www.frontendmentor.io/profile/AlexEG)
 - github - [@ALEXEG](https://www.twitter.com/yourusername)
