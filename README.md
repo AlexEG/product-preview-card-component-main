@@ -20,8 +20,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![Alt text](screenshots/Screenshot%202022-12-11%20at%2018-59-19%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
+![Alt text](screenshots/Screenshot%202022-12-11%20at%2021-29-23%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
+![Alt text](screenshots/Screen%20Shot%202022-12-11%20at%2021.29.00.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/AlexEG/product-preview-card-component-main)
