@@ -1,0 +1,63 @@
+:root{
+  /* Primary */
+--Dark-cyan: hsl(158, 36%, 37%);
+--Cream: hsl(30, 38%, 92%);
+
+ /* Neutral */
+--Very-dark-blue: hsl(212, 21%, 14%);
+--Dark-grayish-blue: hsl(228, 12%, 48%);
+--White: hsl(0, 0%, 100%);
+
+/* Typography */
+--Font-size-p: 14px;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:var(--Cream);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.main-container{
+  background-color: var(--White);
+  /* background-color: red; */
+  width: 38%;
+  height: 55.4%;
+  border: none;
+  border-radius: 10px;
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+  display: flex;
+  overflow: hidden;
+}
+
+.main-container img{
+  /* position: absolute; */
+  width: 50%;
+  border: none;
+}
+.main-container .sub-container{
+width: 50%;
+height: 100%;
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 50px 100px 200px 100px;
+padding: 10px;
+}
+
+.main-container.sub-container.perfume{
+font-size:var(--Font-size-p);
+font-family: ;
+}
